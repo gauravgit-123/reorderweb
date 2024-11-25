@@ -1,6 +1,6 @@
 {
-    "name": "reorder_doc",
-    "short_name": "reorder_doc",
+    "name": "reoderable_web",
+    "short_name": "reoderable_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
